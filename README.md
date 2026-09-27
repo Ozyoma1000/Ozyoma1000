@@ -1,6 +1,6 @@
 Hi, I'm Ozioma Joshua 👋 
 
-**ALX Graduate| Virtual Assistant | Technical Writer | Documentation & Customer Support Specialist**
+**ALX Graduate | Virtual Assistant | Technical Writer | Documentation & Customer Support Specialist**
 
 - 📝 I help remote teams stay organized with clear documentation and reliable support
 
